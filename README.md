@@ -14,3 +14,5 @@ A tiny static landing page for testing a GitHub to Vercel deployment flow.
 - Output directory: empty
 
 Vercel can serve this project directly from the repository root.
+
+Production URL: https://hello-world-landing-mauve.vercel.app
